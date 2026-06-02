@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+<defs>
+<linearGradient id="swoosh" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#d40000"/>
+<stop offset="100%" stop-color="#ff3030"/>
+</linearGradient>
+</defs>
+
+<text x="60" y="170" font-family="Arial Black, Arial" font-size="150" font-weight="900" fill="#111">NJ</text>
+<text x="320" y="170" font-family="Arial Black, Arial" font-size="150" font-weight="900" fill="#e60012">R</text>
+
+<path d="M70 210 C240 250, 420 235, 620 185 C700 165,760 145,820 105"
+      fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+
+<path d="M55 225 C235 265, 430 248, 645 195 C725 175,790 150,850 110"
+      fill="none" stroke="url(#swoosh)" stroke-width="26" stroke-linecap="round"/>
+
+<path d="M90 215 C255 245, 425 230, 620 185"
+      fill="none" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+</svg>
